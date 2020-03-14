@@ -14,7 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_mido.mk
-
-COMMON_LUNCH_CHOICES := \
-    aosp_mido-userdebug
+    $(LOCAL_DIR)/cesium_mido.mk
